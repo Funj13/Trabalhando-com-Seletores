@@ -1,0 +1,13 @@
+/* Trabalhando com seletores */
+h1{
+    color: #0000ff;
+}
+/* Trabalhando com classes */
+.paragrafo-1{
+    background-color: #7fff00;
+}
+
+/*Trabalhando com IDs*/
+#primeiro-titulo{
+    background-color: #ffd900;
+}
